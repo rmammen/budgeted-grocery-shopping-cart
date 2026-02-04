@@ -1,7 +1,7 @@
 # Budget Grocery Shopping Cart 
 
 A Python command-line application that simulates a grocery shopping experience while enforcing a user-defined budget.  
-Users can add and remove items, apply random discounts, track remaining funds, and checkout—all powered by a CSV-based inventory.
+Users can add and remove items, apply random discounts, track remaining funds, and checkout all powered by a CSV-based inventory.
 
 ## Overview
 
